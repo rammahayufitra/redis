@@ -10,3 +10,5 @@ select [nomor database]<br>
 |4|menghapus key|del key|del ramma1 (untuk satu key) & del ramma1 ramma2 (untuk banyak key)|
 |5|membuat append key|append key value| append ramma1 " hayu"|
 |6|mengambil beberapa pattern|keys pattern| keys ramma*|
+|7|set sebagian data|setrange key start end|-----------|
+|8|get sebagian data|getrange key start end|-----------|
