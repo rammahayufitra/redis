@@ -8,5 +8,4 @@ select [nomor database]<br>
 |2|mengambil data string di key|get key|get ramma1
 |3|check apakah di key ada data|exists key|exists ramma1
 |4|menghapus key|del key|del ramma1 (untuk satu key) & del ramma1 ramma2 (untuk banyak key)|
-|5|membuat append key|append key value| append ramma1 " hayu"|
-|6|mengambil beberapa pattern|keys pattern| keys ramma*|
+|5|melakukan append data|append ramma1 " hayu" contoh hasil "ramma hayu"|
