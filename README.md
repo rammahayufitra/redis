@@ -12,3 +12,5 @@ select [nomor database]<br>
 |6|mengambil beberapa pattern|keys pattern| keys ramma*|
 |7|set sebagian data|setrange key start end|-----------|
 |8|get sebagian data|getrange key start end|-----------|
+|9|melakukan get multiple key|mget key1 key2| mget ramma1 ramma2|
+|10|melakukan set multiple key|mset key1 value1 key2 value2|mset ramma1 "hallo ramma1" ramma2 "hallo ramma2"|
